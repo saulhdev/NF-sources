@@ -1,10 +1,25 @@
 {
-    "name":"XDA Developers",
-    "url":"https://www.xda-developers.com/feed/",
-    "language":"en-US",
-    "category":"Development"
-    "tags":[
-        { "name":"android" },
-        { "name":"development" },
-    ] 
+    "formatVersion": 1,
+    "items":[
+        "item":{
+            "title":"XDA Developers",
+            "url":"https://www.xda-developers.com/feed/",
+            "language":"en-US",
+            "category":"Development",
+            "tags":[
+                { "name":"android" },
+                { "name":"development" },
+            ] 
+        },
+        "item":{
+            "title":"Linux Adictos",
+            "url":"http://feeds.feedburner.com/LinuxAdictos",
+            "language":"es-SV",
+            "category":"Open Source",
+            "tags":[
+                { "name":"linux" },
+                { "name":"open source" },
+            ] 
+        }
+    ]
 }
