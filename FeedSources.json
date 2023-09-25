@@ -1,8 +1,10 @@
 {
-    "name" : "XDA Developers",
-    "url" : "https://www.xda-developers.com/feed/",
-    "language" : "en-US",
+    "name":"XDA Developers",
+    "url":"https://www.xda-developers.com/feed/",
+    "language":"en-US",
+    "category":"Development"
     "tags":[
-        
+        { "name":"android" },
+        { "name":"development" },
     ] 
 }
